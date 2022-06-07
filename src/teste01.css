@@ -1,0 +1,14 @@
+  .teste{
+  color: rgb(224, 10, 131)
+  }
+
+.ativo {
+  color: rgb(12, 248, 107);
+  font-size: 4rem;
+}
+
+.inativo{
+  color: red;
+  font-weight: 22rem;
+  font-size: 2em;
+}
